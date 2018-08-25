@@ -24,9 +24,5 @@ To begin your seach click on the following link [here!]git (https://afternoon-pl
 
 ### Screenshots
 
-<!-- Home Page
-![screenshot](app/images/home.png "Home Page") -->
-
-<!-- 
-Survey Page
-![screenshot](app/images/survey.png "Survey Page") -->
+Eat-Da-Burger
+![screenshot](public/assets/images/burger.png "Eat-Da-Burger")
