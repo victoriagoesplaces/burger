@@ -12,7 +12,7 @@
 
 ### How To Use
 
-To begin your seach click on the following link [here!](https://afternoon-plateau-29566.herokuapp.com/)
+To begin your seach click on the following link [here!]git (https://afternoon-plateau-29566.herokuapp.com/)
 
 ### Technologies Used
 

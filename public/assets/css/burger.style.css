@@ -1,0 +1,29 @@
+body { 
+    background: linear-gradient(to bottom right, rgba(2, 98, 241, 0.548) , rgba(137, 139, 146, 0.582) );
+    color: rgba(68, 53, 30, 0.89)
+}
+
+img {
+    height: 200px;
+    width: 500px;
+}
+
+.panel{
+    background-color: rgba(145, 98, 29, 0.205)
+}
+
+.btn-default button {
+    background-color: rgba(145, 98, 29, 0.205);
+    -webkit-transition: all 400ms ease-in-out;
+    -moz-transition: all 400ms ease-in-out;
+    -o-transition: all 400ms ease-in-out;
+    transition: all 400ms ease-in-out;
+ } 
+
+  /* Width at 640px */
+@media screen and (max-width: 640px) {
+    img {
+        height: 150px;
+        width: 350px;
+    }
+}
