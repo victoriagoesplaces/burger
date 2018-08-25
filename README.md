@@ -12,7 +12,7 @@
 
 ### How To Use
 
-To begin your seach click on the following link [here!]git (https://afternoon-plateau-29566.herokuapp.com/)
+To begin your seach click on the following link [here!](https://afternoon-plateau-29566.herokuapp.com/)
 
 ### Technologies Used
 
@@ -25,4 +25,4 @@ To begin your seach click on the following link [here!]git (https://afternoon-pl
 ### Screenshots
 
 Eat-Da-Burger
-![screenshot](public/assets/images/burger.png "Eat-Da-Burger")
+![screenshot](public/assets/img/burger.png "Eat-Da-Burger")
